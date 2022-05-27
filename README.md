@@ -1,6 +1,6 @@
 <h1 align="center">🏆 Alura-Oracle Challenge 1 - encriptador de texto 🏆</h1>
 <div align="center">
-  <a><img src="https://img.shields.io/badge/Estado%3A-Terminado-success" width="15%"></a>&nbsp;&nbsp;<a href="https://d4vc-198.github.io/challenge-oracle-ahorcado/"><img src="https://img.shields.io/badge/Demo%3A-Github pages-blueviolet" width="15%"></a>
+  <a><img src="https://img.shields.io/badge/Estado%3A-Terminado-success" width="15%"></a>&nbsp;&nbsp;<a href="https://d4vc-198.github.io/challenge-oracle-decoder/"><img src="https://img.shields.io/badge/Demo%3A-Github pages-blueviolet" width="15%"></a>
 </div>
 
 <h2>LLaves de encriptación</h2>
